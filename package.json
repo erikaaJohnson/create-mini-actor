@@ -1,0 +1,22 @@
+{
+  "name": "create-mini-actor",
+  "version": "1.0.0",
+  "description": "Minimal starter project for building custom automation or processing tools.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "process:sample": "node src/main.js --input data/input.sample.json --output data/output.sample.json"
+  },
+  "keywords": [
+    "automation",
+    "minimal",
+    "template",
+    "bitbash",
+    "actor",
+    "processing"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
