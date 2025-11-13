@@ -1,0 +1,12 @@
+[
+  {
+    "input": "sample_value",
+    "result": "SAMPLE_VALUE [processed #1]",
+    "logs": "Successfully processed item #1 with length 12."
+  },
+  {
+    "input": "another_example",
+    "result": "ANOTHER_EXAMPLE [processed #2]",
+    "logs": "Successfully processed item #2 with length 15."
+  }
+]
